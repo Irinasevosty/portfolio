@@ -12,3 +12,9 @@
 **Ключевые метрики:** DAU, CR, RR, LTV, средний чек
 
 **Стек:** DataLens, SQL
+
+3. **Project4**: исследование стартапов
+
+**Цель:** разработать модель бизнеса по перепродажи перспективных стартапов
+
+**Стек:** pandas, phik, jupyter-black, matplotlib.pyplot, matplotlib_venn, numpy, seaborn
