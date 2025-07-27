@@ -3,5 +3,4 @@
 
 **Цель:** выявление наиболее привлекательного сегмента для развития бизнеса общественного питания в Москве.
 
-**Стек:** 
-- pandas, phik, jupyter-black, matplotlib.pyplot, seaborn
+**Стек:** pandas, phik, jupyter-black, matplotlib.pyplot, seaborn
