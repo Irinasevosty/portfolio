@@ -18,3 +18,9 @@
 **Цель:** разработать модель бизнеса по перепродажи перспективных стартапов
 
 **Стек:** pandas, phik, jupyter-black, matplotlib.pyplot, matplotlib_venn, numpy, seaborn
+
+4. Dashbord: https://datalens.yandex/5ag2bpml3nuur?_no_controls=1
+   
+**Цель:** изучить опыт проведенных конференций TED с целью организации аналогичного мероприятия аналитическим агентством
+
+**Стек:** DataLens, SQL
